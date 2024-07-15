@@ -1,4 +1,4 @@
-# zad1
+# zadFirstSecond
 def triangle(size):
     for i in range(size, 0, -1):
         for j in range(i, 0, -1):
@@ -70,7 +70,7 @@ def caesar_cipher(text, step):
     return str(out_list)
 
 
-#print(caesar_cipher('HELLO WORLD', 3))
+print(caesar_cipher('HELLO WORLD', 3))
 
 
 

@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Emily",
+        "last_name": "Smith",
+        "email": "emilysmith@example.com",
+        "phone": "123456789"
+    },
+    {
+        "name": "Michael",
+        "last_name": "Johnson",
+        "email": "michaeljohnson@gmail.com",
+        "phone": "123456789"
+    },
+    {
+        "name": "Emma",
+        "last_name": "Williams",
+        "email": "emmawilliams@microsoft.com",
+        "phone": "123456789"
+    },
+    {
+        "name": "Sophia",
+        "last_name": "Jones",
+        "email": "sophiajones@yahoo.com",
+        "phone": "123456789"
+    }
+]
